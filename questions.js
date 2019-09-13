@@ -22,8 +22,10 @@ module.exports = {
     },
     {
       'True or False: If something has gone viral on social media, its most likely true.': [
-        "False",
-        'True',
+        
+         "False",
+        
+         'True',
       ],
     },
     {
